@@ -1,5 +1,4 @@
 # 🚀 React Zero to Monster
-
 This repository documents my **first four days of learning React**, focusing on **core fundamentals** and gradually introducing **important modern concepts** through hands-on practice and mini projects.
 
 The goal of this phase was to build a **strong foundation** before moving into advanced React patterns.
@@ -53,11 +52,13 @@ The goal of this phase was to build a **strong foundation** before moving into a
 
 ### 🎨 Icons
 - **react-icons**
+- 🔗: https://react-icons.github.io/react-icons/icons/io/
   - Used for adding clean, scalable icons
   - Improved UI readability and aesthetics
 
 ### 📦 External APIs & JSON Data
 - **JSONPlaceholder**
+- 🔗: https://jsonplaceholder.typicode.com/
   - Used for working with mock JSON data
   - Practiced API-like data handling and rendering
 
