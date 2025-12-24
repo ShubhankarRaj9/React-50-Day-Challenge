@@ -73,3 +73,35 @@ day-01_day-04/
 ├── react-demo/
 ├── react-portal/
 ├── wikipedia-project-01/
+```
+
+### ✅ Phase 2: Beginner Projects & TypeScript Foundations (Days 5–6)
+
+This phase focuses on **strengthening React fundamentals through hands-on projects** and preparing for **React + TypeScript development**.
+
+---
+
+#### 🔹 Day 05: multiple Beginner Projects & Advanced Hooks
+- Built multiple **beginner-friendly React projects**
+- Reinforced core concepts through practical implementation
+- Introduced **Custom Hooks** for logic reusability
+- Explored additional important React hooks and their real-world use cases
+- Improved understanding of component behavior and state flow
+
+---
+
+#### 🔹 Day 06: TypeScript Fundamentals for React
+- Learned **TypeScript fundamentals** required for React applications
+- Understanding:
+  - Basic types (`string`, `number`, `boolean`, `array`, `object`)
+  - Interfaces and type aliases
+  - Function typing and props typing
+- Prepared for building **React projects using TypeScript**
+- Focused on writing safer, more predictable, and scalable code
+- Generic Template
+---
+
+#### 🔹 Projects / Practice Folders
+```text
+day-05/
+day-06/
