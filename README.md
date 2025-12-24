@@ -64,7 +64,7 @@ The goal of this phase was to build a **strong foundation** before moving into a
 
 ---
 
-## 📁 Project Structure Overview
+### 📁 Project Structure Overview
 
 ```text
 day-01_day-04/
@@ -81,7 +81,7 @@ This phase focuses on **strengthening React fundamentals through hands-on projec
 
 ---
 
-#### 🔹 Day 05: multiple Beginner Projects & Advanced Hooks
+### 🔹 Day 05: multiple Beginner Projects & Advanced Hooks
 - Built multiple **beginner-friendly React projects**
 - Reinforced core concepts through practical implementation
 - Introduced **Custom Hooks** for logic reusability
@@ -90,7 +90,7 @@ This phase focuses on **strengthening React fundamentals through hands-on projec
 
 ---
 
-#### 🔹 Day 06: TypeScript Fundamentals for React
+### 🔹 Day 06: TypeScript Fundamentals for React
 - Learned **TypeScript fundamentals** required for React applications
 - Understanding:
   - Basic types (`string`, `number`, `boolean`, `array`, `object`)
@@ -101,7 +101,7 @@ This phase focuses on **strengthening React fundamentals through hands-on projec
 - Generic Template
 ---
 
-#### 🔹 Projects / Practice Folders
+### 📁 Project Structure Overview
 ```text
 day-05/
 day-06/
