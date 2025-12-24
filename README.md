@@ -75,7 +75,7 @@ day-01_day-04/
 ├── wikipedia-project-01/
 ```
 
-### ✅ Phase 2: Beginner Projects & TypeScript Foundations (Days 5–6)
+## ✅ Phase 2: Beginner Projects & TypeScript Foundations (Days 5–6)
 
 This phase focuses on **strengthening React fundamentals through hands-on projects** and preparing for **React + TypeScript development**.
 
