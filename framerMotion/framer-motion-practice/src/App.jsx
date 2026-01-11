@@ -1,10 +1,9 @@
-import React from "react";
-import Variants from "./components/Variants";
+import AnimatedGallery from "./components/staggerAnimation/AnimatedGallery";
 
 const App = () => {
   return (
     <div>
-      <Variants />
+      <AnimatedGallery/>
     </div>
   );
 };

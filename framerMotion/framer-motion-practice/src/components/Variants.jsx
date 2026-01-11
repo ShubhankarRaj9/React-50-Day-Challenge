@@ -1,5 +1,5 @@
 import { useState } from "react";
-import * as motion from "motion/react-client";
+import {motion} from "motion/react-client";
 const variant = {
   hidden: { opacity: 0, scale: 0.8 },
   visible: { opacity: 1, scale: 1 },
